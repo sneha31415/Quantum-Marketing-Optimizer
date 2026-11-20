@@ -1,0 +1,8 @@
+qiskit>=1.2
+qiskit-aer>=0.15
+pylatexenc
+numpy
+pandas
+scipy
+matplotlib
+streamlit>=1.50
